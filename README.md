@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Phynapse-lazy/Phynapse-lazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
+I'm an undergraduate student majoring in Computer Science and Technology.
+I love data structures, backend development and exploring practical tech solutions.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: Compilation Principles, database internals, distributed systems
+- 🔭 Working on: C++ data structure projects, Spring Boot backend demos
+- 🌍 Languages: C++, Python, Java, JavaScript, SQL; Chinese, English
+- ⚡ Fun fact: I built a cultural digital mini-program as a social practice project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills 🧠
+
+
+
+
+
+
+
+
+
+## Featured Projects 💻
+### Book Management System
+A library management system implemented in C++ based on B-tree.
+Supports adding, searching, borrowing and returning books.
+Deepened my understanding of tree structures and file persistence.
+
+### Cultural Guide Mini Program
+A WeChat mini-program for cultural resource display.
+Contains profile introduction, knowledge quiz and digital exhibition.
+Completed as a summer social practice project.
+
+### Spring Boot Backend Demo
+A simple backend service with user management and MySQL persistence.
+Practiced RESTful API design and basic backend development.
+
+## Get in Touch 📬
+- GitHub: https://github.com/Phynapse
